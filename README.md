@@ -1,5 +1,5 @@
 # Kansas State University
-## Animal Science & Industry Deprt
+## Animal Science & Industry Dept
 
 This will be used for testing small test plates for a larger setup.
 
